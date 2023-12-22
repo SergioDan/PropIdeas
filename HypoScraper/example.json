@@ -1,0 +1,37 @@
+[
+  {
+    "img": "https://...",
+    "title": "...",
+    "content": {
+      "products": [
+        {
+          "image": "https://...",
+          "title": "...",
+          "prices_range": "...",
+          "details": "...",
+          "extra": {
+            "id": "...",
+            "image": "https://....",
+            "title": "....",
+            "description": "....",
+            "prices": ["....", "..."]
+          }
+        },
+        {
+          "image": "https://...",
+          "title": "...",
+          "prices_range": "...",
+          "details": "...",
+          "extra": {
+            "id": "...",
+            "image": "https://....",
+            "title": "....",
+            "description": "....",
+            "prices": ["....", "..."],
+            "sizes": ["...", "..."]
+          }
+        }
+      ]
+    }
+  }
+]
